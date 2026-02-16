@@ -36,7 +36,7 @@ DAX (Data Analysis Expressions): Used for creating complex measures like Year-to
 Power Query: For data cleaning, transformation, and ETL processes. 
 
 
-Data Modeling: Implementation of a star schema to optimize report performance. 
+Data Modeling: Implementation of a star schema to optimize report performance and SQL
 
 # 📊 Dashboard Pages
 
